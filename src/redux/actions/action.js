@@ -1,0 +1,4 @@
+export const SET_LOGIN_DATA = 'SET_LOGIN_DATA';
+export const SET_ADD_SCORE = 'SET_ADD_SCORE';
+export const SET_RIGHT_QUESTION = 'SET_RIGHT_QUESTION';
+export const SET_INIT_AGAIN = 'SET_INIT_AGAIN';
